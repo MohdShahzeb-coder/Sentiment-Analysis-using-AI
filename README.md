@@ -45,3 +45,40 @@ FACE_EMOTION_RECOGNITION/
 ├── requirements.txt
 └── README.md
 ```
+
+
+---
+
+## Technologies Used
+- Python  
+- OpenCV  
+- TensorFlow / Keras  
+- NumPy  
+
+---
+
+## Installation
+
+1. Clone the repository:
+  ```
+  git clone https://github.com/your-username/face-emotion-recognition.git
+  ```
+2. Navigate to project folder:
+   ```
+   cd face-emotion-recognition
+   ```
+3. Install dependencies:
+    ```
+    pip install -r requirements.txt
+    ```
+
+4.Run the real-time detection script:
+```
+python realtimedetection.py
+```
+
+## Dataset
+```
+images/train
+images/test
+```
